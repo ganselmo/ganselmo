@@ -91,14 +91,6 @@ Senior Full Stack Developer with **6 years of experience** building high-traffic
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ganselmo/ganselmo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ## Featured Projects
 
 ### CreditSales
