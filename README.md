@@ -51,6 +51,7 @@ Senior Full Stack Developer with **6 years of experience** building high-traffic
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![REST](https://img.shields.io/badge/RESTful_APIs-grey?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-grey?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 **Databases**
 
@@ -65,6 +66,7 @@ Senior Full Stack Developer with **6 years of experience** building high-traffic
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -83,9 +85,18 @@ Senior Full Stack Developer with **6 years of experience** building high-traffic
 
 ---
 
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ganselmo/ganselmo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## Featured Projects
 
 ### CreditSales
+
 End-to-end credit sales management system — customers, sales, installments, and payments. Built solo from scratch.
 
 `Angular` `NestJS` `PostgreSQL`
@@ -94,7 +105,8 @@ End-to-end credit sales management system — customers, sales, installments, an
 
 ---
 
-### AppointmentsPlatform *(In Development)*
+### AppointmentsPlatform _(In Development)_
+
 Multitenant booking platform with a **heterogeneous frontend architecture**: public-facing app in Next.js, backoffice in Angular, unified NestJS + PostgreSQL backend.
 
 `Next.js` `Angular` `NestJS` `PostgreSQL` `Multitenant`
@@ -104,7 +116,6 @@ Multitenant booking platform with a **heterogeneous frontend architecture**: pub
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganselmo&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganselmo&layout=compact&theme=dark&hide_border=true" height="160" />
 </p>
 
@@ -115,6 +126,16 @@ Multitenant booking platform with a **heterogeneous frontend architecture**: pub
 - Finishing **AppointmentsPlatform** — multi-tenant booking system with heterogeneous frontend
 - Deepening microfrontend patterns with **Module Federation + Angular 20+**
 - Integrating AI tools into daily development workflow
+
+---
+
+## Beyond Code
+
+When I'm not architecting frontends, I'm building things in the physical world:
+
+- **Arduino & Electronics** — prototyping circuits, sensors, and embedded projects
+- **3D Printing** — designing and printing functional parts and prototypes
+- Always curious about where software meets hardware
 
 ---
 
