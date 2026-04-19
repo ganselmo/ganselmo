@@ -78,10 +78,10 @@ Senior Full Stack Developer with **6 years of experience** building high-traffic
 
 **AI Dev Tools**
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
 
 ---
 
